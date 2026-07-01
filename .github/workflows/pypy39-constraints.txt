@@ -1,0 +1,3 @@
+# PyPy 3.9 CI support constraints for Hatch's transitive dependencies.
+cryptography<40
+setuptools<70
